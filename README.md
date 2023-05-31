@@ -1,4 +1,4 @@
-# oss_web_test20230524
+# oss_web_test
 Webサイトセミナー0524
 
 テスト
